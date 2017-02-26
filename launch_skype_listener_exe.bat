@@ -1,0 +1,1 @@
+dist\skype_listener_launcher.exe glenn26nov16@gmail.com p1a2s3s4w5o6r7d8 skype_listener_glenn_token

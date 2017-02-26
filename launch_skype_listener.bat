@@ -1,0 +1,1 @@
+Scripts\python.exe src\skype_listener_launcher.py glenn26nov16@gmail.com p1a2s3s4w5o6r7d8
